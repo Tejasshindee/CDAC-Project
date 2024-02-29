@@ -1,9 +1,12 @@
 # Customer Segmentation Through Purchase History Data
 
+## Problem Statement - 
+  Aim to utilize the potential of purchase history data to segment customers effectively, facilitating personalized marketing campaigns and maximizing customer satisfaction.
+
+### Dataset Information -
 Raw Dataset Info - 2.6 Million records and 8 columns: event_time, order_id, product_id, category_id, category_code, brand, price, user_id.
 Clean Dataset Info - 2 Million records and 19 columns: user_id,	order_id,	category_id,	brand,	price,	cat_1,	cat_2,	cat_3,	max_purchase_by_user,	class_id,	class_category,	recency,	frequency,	monetary,	customer_type,	cust_value,	Date,	Time,	spending.
 
-Problem Statement - Aim to utilize the potential of purchase history data to segment customers effectively, facilitating personalized marketing campaigns and maximizing customer satisfaction.
 
 ## Data Cleaning & Preprocessing -
 1. Removed duplicate records .
