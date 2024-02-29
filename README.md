@@ -36,3 +36,6 @@ Clean Dataset Info - 2 Million records and 19 columns: user_id,	order_id,	catego
 ## Visualization using Tableau :
 Plotted graphs that will interpret the segmentation of customers on various factors.
 [Here are some graphs](https://public.tableau.com/app/profile/tejas.shinde6818/viz/CDAC-Project_17086852664780/CustomerSegmentationDashboard?publish=yes)
+
+## Conclusion :
+
