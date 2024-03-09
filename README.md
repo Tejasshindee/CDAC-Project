@@ -1,7 +1,7 @@
 # Customer Segmentation Through Purchase History Data
 
 ## Dataset Information : 
-For Data Source [Click here](https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store/data)
+Data Source - [Link](https://www.kaggle.com/datasets/mkechinov/ecommerce-purchase-history-from-electronics-store/data)
 
 Raw Dataset Info - 2.6 Million records and 8 columns: event_time, order_id, product_id, category_id, category_code, brand, price, user_id.
 
